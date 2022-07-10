@@ -8,7 +8,7 @@ questions = ["LFERDA, ntmy", "LFERDA, nice to meet you", "LFERDA, Nice to meet y
 questions2 = ["LFERDA, are you okay?", "LFERDA, are u ok?", "LFERDA, are u fine?", "LFERDA, are you fine?", "LFERDA, are u feeling good?", "LFERDA, how are u feeling?", "LFERDA, u good?", "LFERDA, wassup dude?", "LFERDA, how are you bro", "LFERDA, how are u bro", "LFERDA, how are you bro?", "LFERDA, how are u bro?"]
 
 bot = hikari.GatewayBot(
-    token=   "Njg1OTQ5MzM2NDExOTYzNTYw.G7XM0y.L49oKgGF7SC6QMKZneuRC2kpEfx61cTqEe4K2c")
+    token=   "TOKEN")
 
 
 @bot.listen()
